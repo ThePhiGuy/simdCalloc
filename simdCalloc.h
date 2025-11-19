@@ -1,5 +1,5 @@
 /*
-*   simdAlloc provides abstracted versions of SIMD intrinsics used to implement
+*   simdcAlloc provides abstracted versions of SIMD intrinsics used to implement
 *   a Calloc equivalent, providing alligned and clear memory that is portable.
 *
 *   Utilizes aligned_alloc() from the C11 Standard. this also rounds smaller bit requests to fit allignment.
